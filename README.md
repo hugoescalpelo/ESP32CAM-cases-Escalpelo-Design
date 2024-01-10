@@ -13,6 +13,10 @@ I want to design the following cases
 - **Tilt Case**. This case has a mechanism to adjust the tilt of the camera. It will have an 1/4" insert for mounting *(pending)*.
 - **Vertical Case**. This is also a flat case and will be mounted with double sided tape in my door *(pending)*.
 
+## Pictures
+
+**Flat Case**
+![](https://github.com/hugoescalpelo/ESP32CAM-cases-Escalpelo-Design/blob/main/ESP32CAM%20case%20-%20Flat/Images/IMG_20240103_125934.jpg?raw=true)
 ## Useful Links
 
 - You can find the Thingiverse thing in: https://www.thingiverse.com/thing:6415169
